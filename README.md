@@ -1,1 +1,1 @@
-We've moved to <a href="https://github.com/movabletype/DynamicMTML">movabletype/DynamicMTML</a>.
+We've moved to <a href="https://github.com/PowerCMS/DynamicMTML">PowerCMS/DynamicMTML</a>.
